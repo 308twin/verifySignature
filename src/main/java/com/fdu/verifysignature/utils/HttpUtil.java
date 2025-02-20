@@ -9,6 +9,8 @@
  */
 package com.fdu.verifysignature.utils;
 
+import java.security.PublicKey;
+
 import org.springframework.web.client.RestTemplate;
 import org.springframework.web.util.UriComponentsBuilder;
 
